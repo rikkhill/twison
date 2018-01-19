@@ -1,3 +1,5 @@
+[N.B. Forked by Rikk, who is writing a dialogue system for use in Unity, and wants to use Twine as a front-end for writing the actual dialogue. You, dear reader, probably shouldn't use this version for anything.]
+
 # Twison
 
 [![Build Status](https://travis-ci.org/lazerwalker/twison.svg?branch=master)](https://travis-ci.org/lazerwalker/twison)
